@@ -1,0 +1,15 @@
+PCBNEW-LibDoc----V1  Mi 14 Sep 2011 14:55:55 CEST
+#
+$MODULE CHS-01TA2
+Li CHS-01TA2
+Cd CHS-01TA DIP Switch Footprint
+Kw CHS-01TA DIP Switch Footprint
+$EndMODULE
+#
+$MODULE CHS_04TA
+Li CHS_04TA
+Cd CHS-04TA DIP Switch Footprint
+Kw CHS-04TA DIP Switch Footprint
+$EndMODULE
+#
+$EndLIBDOC
