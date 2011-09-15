@@ -1,0 +1,73 @@
+EESchema-DOCLIB  Version 2.0  Date: Do 15 Sep 2011 10:51:48 CEST
+#
+$CMP BATTERY
+D BATTERY
+K BATTERY
+$ENDCMP
+#
+$CMP BMA180
+D Accelerometer 14-bit resolution
+K Accelerometer SPI i2C
+$ENDCMP
+#
+$CMP BMP085
+D Barometric sensor I2C BMP085
+K Barometric sensor I2C BMP085
+$ENDCMP
+#
+$CMP C
+D Capacitor non-pol
+K Capacitor non-pol
+$ENDCMP
+#
+$CMP CAPAPOL
+D CAPACITOR POL (On tantalum chip caps the + pin is marked with |)
+K CAPACITOR POL
+$ENDCMP
+#
+$CMP DIODE
+D DIODE
+K DIODE
+$ENDCMP
+#
+$CMP HMC5883
+D Magnetometer 3 Axis i2c
+K HMC5883 i2c Magnetometer 3 Axis
+$ENDCMP
+#
+$CMP ISO1050
+D CAN Transceiver ISO1050 (Fully Integrated)
+K CAN Transceiver ISO1050
+$ENDCMP
+#
+$CMP LEA6-X
+D u-Blox GPS module LEA6 (all Versions)
+K u-Blox GPS module LEA6
+$ENDCMP
+#
+$CMP LM26420
+D Dual Buck Voltage Regulator
+K Dual Buck Voltage Regulator
+$ENDCMP
+#
+$CMP LTC3417A
+D Dual Voltage Regulator LTC3417A
+K Dual Voltage Regulator LTC3417A
+$ENDCMP
+#
+$CMP MCP130T
+D BROWN OUT MCP130 (SOT23)
+K BROWN OUT MCP130 (SOT23)
+$ENDCMP
+#
+$CMP MPU6000
+D MPU-6000 Gyro 3 Axis &Accelerometer 3 Axis, Connection for external i2c components possible
+K MPU-6000 Gyro Accelerometer 3 Axis
+$ENDCMP
+#
+$CMP TPIC1021
+D LIN Transceiver
+K LIN Transceiver
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: Mi 14 Sep 2011 23:12:55 CEST
+#
+$CMP MICRO-USB
+D Micro USB Connector AB
+K Micro USB Connector AB
+$ENDCMP
+#
+$CMP MICROSD
+D MicroSD Slot
+K MicroSD Slot
+$ENDCMP
+#
+#End Doc Library
