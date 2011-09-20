@@ -1,3 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Mi 14 Sep 2011 15:01:32 CEST
+EESchema-DOCLIB  Version 2.0  Date: Di 20 Sep 2011 23:27:44 CEST
+#
+$CMP MOUNTINGHOLE3MM
+D Mounting Hole
+K Mounting Fixture Hole
+$ENDCMP
 #
 #End Doc Library
