@@ -1,4 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: Di 27 Sep 2011 11:45:34 CEST
+EESchema-DOCLIB  Version 2.0  Date: Do 29 Sep 2011 16:10:52 CEST
+#
+$CMP CHARGERPADS
+D RL Battery Holder Charger Pads
+K RL Battery Holder Charger Pads Roomba
+$ENDCMP
 #
 $CMP MOUNTINGHOLE3MM
 D Mounting Hole
