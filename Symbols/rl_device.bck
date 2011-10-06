@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: So 02 Okt 2011 01:13:32 CEST
+EESchema-DOCLIB  Version 2.0  Date: Do 06 Okt 2011 18:02:37 CEST
 #
 $CMP 9346
 D EEPROM 9346
@@ -58,6 +58,11 @@ $ENDCMP
 $CMP LTC3417A
 D Dual Voltage Regulator LTC3417A
 K Dual Voltage Regulator LTC3417A
+$ENDCMP
+#
+$CMP LTC4011
+D LTC4011 Battery Charger NIMH NiCd
+K LTC4011 Battery Charger NIMH NiCd
 $ENDCMP
 #
 $CMP MCP130T
