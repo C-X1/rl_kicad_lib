@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Do 06 Okt 2011 18:02:37 CEST
+EESchema-DOCLIB  Version 2.0  Date: Fr 07 Okt 2011 12:25:20 CEST
 #
 $CMP 9346
 D EEPROM 9346
@@ -65,6 +65,11 @@ D LTC4011 Battery Charger NIMH NiCd
 K LTC4011 Battery Charger NIMH NiCd
 $ENDCMP
 #
+$CMP MC34921
+D MC34921 PWM/Step/SSSDC Bridge Controller
+K MC34921 PWM Bridge Step Motor SS DC Controller
+$ENDCMP
+#
 $CMP MCP130T
 D BROWN OUT MCP130 (SOT23)
 K BROWN OUT MCP130 (SOT23)
@@ -83,6 +88,11 @@ $ENDCMP
 $CMP TPIC1021
 D LIN Transceiver
 K LIN Transceiver
+$ENDCMP
+#
+$CMP TSL2561
+D Light Sensor TSL2561
+K Light Sensor TSL2561
 $ENDCMP
 #
 #End Doc Library
