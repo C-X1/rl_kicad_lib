@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Fr 07 Okt 2011 12:25:20 CEST
+EESchema-DOCLIB  Version 2.0  Date: Fr 07 Okt 2011 12:25:53 CEST
 #
 $CMP 9346
 D EEPROM 9346
@@ -83,6 +83,11 @@ $ENDCMP
 $CMP Schottky
 D DIODE
 K DIODE
+$ENDCMP
+#
+$CMP SOLDERJOINT
+D Solderjoint (Jumper)
+K Solderjoint Jumper solder
 $ENDCMP
 #
 $CMP TPIC1021
