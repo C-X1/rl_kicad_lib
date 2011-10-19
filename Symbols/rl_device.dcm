@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Di 18 Okt 2011 19:24:03 CEST
+EESchema-DOCLIB  Version 2.0  Date: Mi 19 Okt 2011 22:59:13 CEST
 #
 $CMP 9346
 D EEPROM 9346
@@ -78,6 +78,11 @@ $ENDCMP
 $CMP MPU6000
 D MPU-6000 Gyro 3 Axis &Accelerometer 3 Axis, Connection for external i2c components possible
 K MPU-6000 Gyro Accelerometer 3 Axis
+$ENDCMP
+#
+$CMP PHOTODIODE
+D Photodiode
+K Photodiode
 $ENDCMP
 #
 $CMP RGB-LED
