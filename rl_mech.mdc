@@ -1,4 +1,4 @@
-PCBNEW-LibDoc----V1  Do 29 Sep 2011 16:01:03 CEST
+PCBNEW-LibDoc----V1  Do 27 Okt 2011 22:38:01 CEST
 #
 $MODULE CHS-01TA2
 Li CHS-01TA2
@@ -16,6 +16,12 @@ $MODULE G6SK-2F
 Li G6SK-2F
 Cd G6SK-2F RELAY
 Kw G6SK-2F RELAY
+$EndMODULE
+#
+$MODULE MountingHole_M1
+Li MountingHole_M1
+Cd MountingHole M1
+Kw MountingHole M1
 $EndMODULE
 #
 $EndLIBDOC
