@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Do 27 Okt 2011 17:21:32 CEST
+EESchema-DOCLIB  Version 2.0  Date: Mo 07 Nov 2011 16:29:08 CET
 #
 $CMP 9346
 D EEPROM 9346
@@ -11,7 +11,7 @@ K ATtiny25 ATtiny45 ATtiny85
 $ENDCMP
 #
 $CMP ATTINY25_45_85_QFN_MLF
-D ATtiny25/45/85
+D ATtiny25/45/85 QFN MLF
 K ATtiny25 ATtiny45 ATtiny85
 $ENDCMP
 #
@@ -38,6 +38,16 @@ $ENDCMP
 $CMP CAPAPOL
 D CAPACITOR POL (On tantalum chip caps the + pin is marked with |)
 K CAPACITOR POL
+$ENDCMP
+#
+$CMP CRYSTAL3PIN
+D Crystal3Pin
+K Crystal 3 Pins
+$ENDCMP
+#
+$CMP CRYSTAL4PIN
+D Crystal4Pin
+K Crystal 4 Pins
 $ENDCMP
 #
 $CMP DIODE

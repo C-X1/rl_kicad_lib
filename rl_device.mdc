@@ -1,4 +1,4 @@
-PCBNEW-LibDoc----V1  Do 03 Nov 2011 10:47:49 CET
+PCBNEW-LibDoc----V1  Mo 07 Nov 2011 16:36:17 CET
 #
 $MODULE HCM49
 Li HCM49
@@ -88,6 +88,18 @@ $MODULE TO-263
 Li TO-263
 Cd TO-263
 Kw TO-263
+$EndMODULE
+#
+$MODULE CSTCR
+Li CSTCR
+Cd CSTCR Crystal
+Kw CSTCR Crystal SMD
+$EndMODULE
+#
+$MODULE SMDTuningFork
+Li SMDTuningFork
+Cd SMD Tuning Fork
+Kw SMD Tuning Fork
 $EndMODULE
 #
 $EndLIBDOC
