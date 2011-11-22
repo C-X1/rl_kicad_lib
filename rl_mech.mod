@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Do 03 Nov 2011 08:14:06 CET
+PCBNEW-LibModule-V1  Di 22 Nov 2011 02:43:50 CET
 $INDEX
 CHS_04TA
 CHS-01TA2
@@ -6,6 +6,7 @@ MountingHole_3mm
 B3SN_3012X
 G6SK-2F
 MountingHole_M1
+MountingHole_5mm
 $EndINDEX
 $MODULE MountingHole_3mm
 Po 0 0 0 15 4EB23E13 00000000 ~~
@@ -310,4 +311,20 @@ Ne 0 ""
 Po 0 -1929
 $EndPAD
 $EndMODULE  CHS_04TA
+$MODULE MountingHole_5mm
+Po 0 0 0 15 4ECAFE40 00000000 ~~
+Li MountingHole_5mm
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 -1575 197 197 0 39 N V 21 N"MountingHole_5mm"
+T1 0 1575 197 197 0 39 N V 21 N"VAL**"
+$PAD
+Sh "1" C 3937 3937 0 0 0
+Dr 1969 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE  MountingHole_5mm
 $EndLIBRARY
