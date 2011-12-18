@@ -1,8 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: Mo 14 Nov 2011 09:11:36 CET
+EESchema-DOCLIB  Version 2.0  Date: Mo 28 Nov 2011 00:46:04 CET
 #
 $CMP 9346
 D EEPROM 9346
 K EEPROM 9346
+$ENDCMP
+#
+$CMP ADP1864
+D ADP1864
+K Switching Regulator ADP1864
 $ENDCMP
 #
 $CMP ATMEGA162_QFN
@@ -115,7 +120,7 @@ D RGB LED anodes and cathodes separated
 K LED RGB
 $ENDCMP
 #
-$CMP Schottky
+$CMP SCHOTTKY
 D DIODE
 K DIODE
 $ENDCMP
