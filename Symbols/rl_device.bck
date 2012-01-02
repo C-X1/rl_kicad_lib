@@ -1,8 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: Mo 28 Nov 2011 00:46:04 CET
+EESchema-DOCLIB  Version 2.0  Date: Mo 02 Jan 2012 01:23:04 CET
 #
 $CMP 9346
 D EEPROM 9346
 K EEPROM 9346
+$ENDCMP
+#
+$CMP ACS712
+D Current Sensor
+K Current Sensor
 $ENDCMP
 #
 $CMP ADP1864
