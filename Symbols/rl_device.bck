@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mo 02 Jan 2012 01:23:04 CET
+EESchema-DOCLIB  Version 2.0  Date: Do 05 Jan 2012 16:03:15 CET
 #
 $CMP 9346
 D EEPROM 9346
@@ -138,6 +138,12 @@ $ENDCMP
 $CMP SOLDERJOINT
 D Solderjoint (Jumper)
 K Solderjoint Jumper solder
+$ENDCMP
+#
+$CMP SSR
+D Solid State Relais
+K Solid State Relais SSR
+F transistors/mos/*.*
 $ENDCMP
 #
 $CMP SUPERFLUX_LED
