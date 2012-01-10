@@ -1,4 +1,14 @@
-EESchema-DOCLIB  Version 2.0  Date: Mi 28 Sep 2011 15:20:19 CEST
+EESchema-DOCLIB  Version 2.0  Date: Di 10 Jan 2012 09:00:19 CET
+#
+$CMP AUDIO_JACK_3P_NSW
+D AUDIO JACK 3P NO SWITCH
+K AUDIO JACK 3P NO SWITCH
+$ENDCMP
+#
+$CMP BINDER_678_SERIES_7POL
+D Binder Connector 678 Series 7 POL (Users: JBC Tools: Advanced Line Stations)
+K Binder Connector 678 Series 7 POL JBC
+$ENDCMP
 #
 $CMP MICRO-USB
 D Micro USB Connector AB
@@ -8,6 +18,11 @@ $ENDCMP
 $CMP MICROSD
 D MicroSD Slot
 K MicroSD Slot
+$ENDCMP
+#
+$CMP SCHUKO_CEE7_4
+D Schuko German 230V 50Hz CEE7/4
+K Schuko CEE7/4
 $ENDCMP
 #
 #End Doc Library
