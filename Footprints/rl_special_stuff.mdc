@@ -1,0 +1,14 @@
+PCBNEW-LibDoc----V1  Mo 14 Nov 2011 15:29:21 CET
+#
+$MODULE BPW34-BPX61_SMD-TH
+Li BPW34-BPX61_SMD-TH
+Cd Special Footprint for (multiple) BPW34 or a BPX 61
+$EndMODULE
+#
+$MODULE PLCC-Adapter
+Li PLCC-Adapter
+Cd Adapter Board Outline for a 44-PLCC (defines a PCB)
+Kw PLCC44 44PLCC
+$EndMODULE
+#
+$EndLIBDOC
